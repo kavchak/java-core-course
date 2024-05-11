@@ -39,13 +39,11 @@ public class RestaurantTableReservation {
             System.out.print("\nPlease enter your choice: ");
             input = scanner.nextInt();
             if (input >= 1 && input <= 3) {
-                break;
+                return input;
             } else {
                 System.out.println("\nInvalid choice. Please enter a number between 1 and 3.");
             }
         }
-
-        return input;
     }
 
     private static void makeReservation(boolean[] tablesAvailability) {

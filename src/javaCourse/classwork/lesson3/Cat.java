@@ -1,4 +1,4 @@
-package java.course.classwork.lesson3;
+package javaCourse.classwork.lesson3;
 
 public class Cat {
 

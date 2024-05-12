@@ -1,14 +1,14 @@
-package java.course.homework.lesson2;
+package javaCourse.homework.lesson2;
 
-public class Vaccination implements Procedurable {
+public class Surgery implements Procedurable {
     private final String name;
     private final String description;
     private final double price;
 
-    public Vaccination() {
-        this.name = "Vaccination";
-        this.description = "Administering vaccines to prevent diseases.";
-        this.price = 50.0;
+    public Surgery() {
+        this.name = "Surgery";
+        this.description = "Medical operation performed on the animal.";
+        this.price = 500.0;
     }
 
     @Override

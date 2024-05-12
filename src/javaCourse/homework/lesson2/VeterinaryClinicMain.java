@@ -1,4 +1,4 @@
-package java.course.homework.lesson2;
+package javaCourse.homework.lesson2;
 
 import java.time.LocalDate;
 

@@ -1,4 +1,4 @@
-package homework.lesson2;
+package java.course.homework.lesson2;
 
 public class Cat extends Animal {
     public Cat(String name, int age, String breed, String lastVisitDate, String medicalHistory) {

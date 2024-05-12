@@ -1,4 +1,4 @@
-package homework.lesson2;
+package java.course.homework.lesson2;
 
 public class Dog extends Animal {
     public Dog(String name, int age, String breed, String lastVisitDate, String medicalHistory) {

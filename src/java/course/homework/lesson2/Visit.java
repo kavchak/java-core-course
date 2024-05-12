@@ -1,4 +1,4 @@
-package homework.lesson2;
+package java.course.homework.lesson2;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

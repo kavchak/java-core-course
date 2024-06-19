@@ -4,6 +4,8 @@ import java.io.Serializable;
 import java.time.LocalDateTime;
 
 public class Order implements Serializable {
+    private static final long serialVersionUID = 1L;
+
     private final int orderId;
     private OrderStatus status;
     private final LocalDateTime createdDate;
